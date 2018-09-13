@@ -1,0 +1,9 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="Cvs.Import" count="1" />
+      <entry action="EditorEnter" count="1" />
+      <entry action="EditorPaste" count="1" />
+    </counts>
+  </component>
+</application>
